@@ -1,0 +1,30 @@
+﻿{
+	"version": 1529284768,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/obj_fundo-sheet0.png",
+		"images/obj_chao_cima.png",
+		"images/obj_chao_baixo-sheet0.png",
+		"images/colission-sheet0.png",
+		"images/obj_player-sheet0.png",
+		"images/obj_canhão-sheet0.png",
+		"images/obj_obstaculo-sheet0.png",
+		"images/obj_kill_enemy-sheet0.png",
+		"images/obj_inimigoa-sheet0.png",
+		"images/obj_roda-sheet0.png",
+		"images/obj_inimigov-sheet0.png",
+		"images/fundo_do_menu-sheet0.png",
+		"images/menu-sheet0.png",
+		"images/menu-sheet1.png",
+		"images/transição-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
